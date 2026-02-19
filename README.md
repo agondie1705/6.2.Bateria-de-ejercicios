@@ -7,3 +7,6 @@ ejercicio_3
 ![ejercicio3](ej3-etns.png)
 ejercicio_4
 ![ejercicio4](ej4-etns.png)
+ejercicio_5
+![ejercicio5](ej5-etns.png)
+
