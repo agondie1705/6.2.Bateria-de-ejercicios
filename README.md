@@ -3,3 +3,5 @@ ejercicio_1
 ![ejercicio1](ej1-etns.png)
 ejercicio_2
 ![ejercicio2](ej2-etns.png)
+ejercicio_3
+![ejercicio3](ej3-etns.png)
