@@ -11,3 +11,14 @@ ejercicio_5
 ![ejercicio5](ej5-etns.png)
 ejercicio_6
 ![ejercicio6](ej6-etns.png)
+
+```mermaid
+classDiagram
+direction TB
+    class Persona {
+	    +int age
+	    +String gender
+	    +isMammal()
+	    +mate()
+    }
+```
